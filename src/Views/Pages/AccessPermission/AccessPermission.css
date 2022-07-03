@@ -1,0 +1,51 @@
+.accessPermission-heading {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 28px;
+  color: #3c3c3c;
+}
+
+.accessPermission-sub {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #3c3c3c;
+}
+
+.accessPermission-searchBox {
+  margin-top: 30px;
+}
+
+.css-g1d714-ValueContainer > div {
+  width: auto !important;
+}
+.permission-form {
+  display: flex;
+}
+.css-b62m3t-container {
+  width: 100%;
+}
+
+.permission-btn {
+  background-color: #6c7bff;
+  border: 1px solid #6c7bff;
+  margin-left: 10px;
+  border-radius: 5px;
+  color: #ffffff;
+  padding: 0 10px;
+}
+
+.permission_list_body {
+  margin-top: 25px;
+}
+.permission-list-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10px;
+  border-bottom: 1px solid #bebebe;
+}

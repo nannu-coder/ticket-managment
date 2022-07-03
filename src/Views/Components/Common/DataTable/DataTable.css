@@ -1,0 +1,26 @@
+.DataTable-container .MuiDataGrid-row {
+  background-color: #ffffff;
+  margin: 5px 0;
+  border-radius: 5px;
+}
+
+.DataTable-container .MuiDataGrid-columnHeadersInner {
+  background-color: #ffffff;
+  border-radius: 15px 15px 0 0;
+}
+
+/* .DataTable-container .MuiDataGrid-row--lastVisible {
+  border-radius: 0 0 15px 15px;
+} */
+
+.DataTable-container .css-1xy1myn-MuiDataGrid-root {
+  border: 0;
+}
+
+.DataTable-container .css-17jjc08-MuiDataGrid-footerContainer {
+  border: 0;
+}
+
+.DataTable-container .css-1xy1myn-MuiDataGrid-root .MuiDataGrid-cell {
+  border-bottom: 0;
+}

@@ -1,0 +1,27 @@
+.profile__header-tab {
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+
+.profile__header-tab ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.profile__header-tab ul li {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.profile__header-tab ul li a {
+  display: inline-block;
+  padding: 15px 12px;
+  text-decoration: none;
+  color: #3c3c3c;
+}
+
+.nav-active {
+  border-bottom: 2px solid #6c7bff;
+  color: #6c7bff !important;
+}

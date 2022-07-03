@@ -1,0 +1,62 @@
+.agent-message__heading {
+  padding: 10px;
+}
+
+.agent--message--part__container {
+  padding: 10px;
+  display: flex;
+}
+
+.agent--message--part--img--image {
+  width: 37px;
+  height: 37px;
+  border-radius: 50%;
+}
+
+.agent--message--part--content--header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.agent--message--part--content {
+  margin-left: 7px;
+}
+
+.agent--message--part--content--header-heading {
+  font-family: "Manrope", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  color: #3c3c3c;
+}
+
+.agent--message--part--content--body-head {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #3c3c3c;
+  margin: 3px 0;
+}
+
+.agent--message--part--content--body-detail {
+  font-family: "Manrope", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 26px;
+  color: #7b7f90;
+}
+
+.agent--message--part--content-time {
+  font-family: "Manrope", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  color: #7b7f90;
+}

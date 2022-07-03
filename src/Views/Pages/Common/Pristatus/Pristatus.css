@@ -1,0 +1,26 @@
+
+.priorities--header--btn--icon {
+    margin-right: 5px;
+  }
+  
+  .priorities--options {
+    margin-top: 30px;
+  }
+  
+  .priorities--options--box {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+    margin-top: 10px;
+  }
+  
+  .priorities--options-btns {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .priorities--options-icon-delete {
+    margin-right: 10px;
+  }
+  

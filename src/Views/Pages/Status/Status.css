@@ -1,0 +1,41 @@
+.status-part {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.status-part__header-btn {
+  padding: 10px 18px;
+  background-color: #6c7bff;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.status-part--heading_icon {
+  margin-right: 5px;
+}
+
+.status-body {
+  margin-top: 25px;
+}
+
+.statusModal label {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 6px;
+}
+
+.statusModal input {
+  width: 350px;
+}
+
+@media only screen and (max-width: 420px) {
+  .statusModal input {
+    width: 100%;
+  }
+}

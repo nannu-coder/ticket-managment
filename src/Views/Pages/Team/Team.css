@@ -1,0 +1,254 @@
+.team_part--header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.team_part--header--title {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 28px;
+  color: #3c3c3c;
+}
+
+.create-team-btn {
+  padding: 8px 32px !important;
+  background-color: #6c7bff !important;
+  color: #ffffff !important;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize !important;
+  border-radius: 8px !important;
+}
+
+.plus_icon {
+  margin-right: 7px;
+}
+
+.create-team-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modal-close-icon {
+  color: gray;
+  cursor: pointer;
+}
+
+.create-team-modal--title {
+  font-family: "Inter", sans-serif !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 22px !important;
+  line-height: 28px !important;
+  color: #6c7bff;
+}
+
+.create-team-input {
+  width: 100%;
+  padding: 9px 8px;
+  border: 1px solid #6c7bff;
+  border-radius: 5px;
+}
+
+.css-1s2u09g-control {
+  border-color: #6c7bff !important;
+}
+
+.create-team-forms input {
+  margin-bottom: 18px;
+}
+
+.create-btn {
+  padding: 8px 32px;
+  background-color: #6c7bff;
+  display: block;
+  width: 100%;
+  margin-top: 32px;
+  color: #ffffff;
+  border-radius: 10px;
+  font-family: "Inter", sans-serif !important;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  border: 1px solid #6c7bff;
+  cursor: pointer;
+}
+
+.team-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.team-card-header__left {
+  display: flex;
+  align-items: center;
+}
+
+.team-option {
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+/* Team Card */
+.team_part--body {
+  margin-top: 40px;
+}
+.team-card {
+  padding: 14px;
+}
+
+.member-profession {
+  font-family: "Inter", sans-serif !important;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 27px;
+  color: #4f546f;
+  margin-left: 6px;
+}
+
+.team-header__avatar {
+  display: flex;
+  margin-left: 6px;
+  margin-top: 14px;
+  margin-bottom: 12px;
+}
+
+.css-hl4f7t-MuiAvatar-root {
+  margin-left: -7px;
+}
+
+.team-ticket_count__left {
+  display: flex;
+  align-items: center;
+}
+
+.succes_icon {
+  color: #34ddaa;
+}
+
+.team-ticket_count__left--title {
+  font-family: "Inter", sans-serif !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #7b7f90;
+  margin-left: 5px;
+}
+
+.team-ticket_count {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.team-member_plus {
+  color: #6c7bff;
+}
+
+.progress_content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 14px;
+  margin-bottom: 12px;
+}
+
+.progress_content--success {
+  font-family: "Inter", sans-serif !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #7b7f90;
+}
+
+.progress_content--count {
+  font-family: "Inter", sans-serif !important;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: right;
+  color: #28cc80;
+}
+
+.team-card-header-right .css-1e6y48t-MuiButtonBase-root-MuiButton-root:hover {
+  background-color: transparent;
+}
+
+.option-font {
+  font-family: "Inter", sans-serif !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.0002px;
+  line-height: 19px;
+  color: #3c3c3c;
+  margin-left: 5px;
+}
+.team--edit,
+.team-delete-option {
+  color: #3c3c3c;
+}
+
+.team-card-header-right .css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+  min-width: auto;
+}
+
+.team-ticket_count__right .css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+  border: 0;
+}
+
+.team-ticket_count__right .css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover {
+  border: 0;
+  background-color: transparent;
+}
+
+.member-handle-btn {
+  text-align: right;
+  width: 100%;
+  margin-top: 32px;
+  margin-bottom: 20px;
+}
+
+.member_close {
+  padding: 5px 20px;
+  background-color: #eaeaea;
+  border: 1px solid #eaeaea;
+  border-radius: 5px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.member_save {
+  background-color: #6c7bff;
+  padding: 5px 20px;
+  border: 1px solid #6c7bff;
+  border-radius: 5px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.search-people {
+  display: flex;
+  align-items: center;
+  width: 440px;
+  max-width: 100%;
+  margin-top: 10px;
+}
+
+.show_added_member {
+  display: flex;
+  align-items: center;
+}
+.userName {
+  margin: 5px 0;
+}
+.userName {
+  margin-left: 5px;
+}

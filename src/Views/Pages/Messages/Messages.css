@@ -1,0 +1,181 @@
+.header_back_btn {
+  display: flex;
+  align-items: center;
+}
+
+.header_back_btn {
+  text-decoration: none;
+  color: #3c3c3c;
+}
+
+.status-select {
+  width: 100%;
+  padding: 8px 8px;
+  background-color: #6c7bff;
+  color: #ffffff;
+  border-radius: 5px;
+}
+
+.status-select:focus {
+  outline: 0;
+}
+
+.status_options {
+  margin: 14px 0;
+}
+
+.tickets_part__top label {
+  display: block;
+  margin-bottom: 5px;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  color: #3c3c3c;
+}
+
+.status_options .css-1s2u09g-control {
+  background-color: #6c7bff !important;
+  color: #ffffff !important;
+}
+
+.status_options .css-1s2u09g-control:focus {
+  background-color: #6c7bff !important;
+  outline: 0;
+}
+
+.status_options .css-1s2u09g-control .css-qc6sy-singleValue {
+  color: #ffffff;
+}
+
+.css-6j8wv5-Input {
+  color: red;
+}
+
+.status_options .css-qc6sy-singleValue {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  color: #3c3c3c;
+}
+
+/* message title */
+
+.ritgh-customer--img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.inbox--right-side {
+  height: 100%;
+}
+
+.inbox--right-side--top {
+  text-align: center;
+}
+
+.inbox--right-side--top--title {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #444444;
+}
+
+.inbox--right-side--top--sub {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  color: #7b7f90;
+}
+
+.phone-info,
+.email-info,
+.address-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.inbox--right-side-info {
+  margin-top: 30px;
+}
+
+.inbox--right-side-info-qs {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 28px;
+  color: #444444;
+}
+
+.customer--personal-info {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 28px;
+  color: #7b7f90;
+}
+
+.right-side--btn {
+  display: flex;
+  margin-top: 20px;
+}
+
+.right-side--file {
+  flex-grow: 1;
+  padding: 8px 5px;
+  border: 0;
+  cursor: pointer;
+  margin: 15px 0;
+}
+
+.right-side--file.all-file-btn {
+  background-color: #6c7bff;
+  color: #ffffff;
+}
+
+.right-side--file.my-file-btn {
+  background-color: #f4f4f4;
+}
+.file--part {
+  display: flex;
+  margin: 20px 0;
+  align-items: center;
+}
+.file-icon-box {
+  background-color: #f4f4f4;
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 5px;
+}
+
+.file-part--text {
+  margin-left: 15px;
+}
+
+.file-part--text .file-text {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #3c3c3c;
+}
+
+.file-part--text .file-details {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #7b7f90;
+}

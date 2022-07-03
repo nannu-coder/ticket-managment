@@ -1,0 +1,263 @@
+.message-heading--title {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
+  color: #3c3c3c;
+}
+.mesage-profile {
+  display: flex;
+}
+
+.inbox-profile--img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.inbox-profile--img .userName {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #3c3c3c;
+  opacity: 0.7;
+}
+
+.message__header__text {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 28px;
+  color: #7b7f90;
+  opacity: 0.7;
+}
+
+.message-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+.bug-fixing-inbox-receive__message--text {
+  margin-left: 10px;
+}
+
+.bug-fixing-inbox-receive__message--text__one {
+  background-color: #f4f4f4;
+  border-radius: 15px 15px 15px 0;
+  padding: 8px;
+}
+
+.bug-fixing-inbox-receive__message--text__two {
+  background-color: #f4f4f4;
+  border-radius: 0px 15px 15px 15px;
+  margin-top: 5px;
+  padding: 8px 10px;
+}
+
+.bugFixing--font {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #3c3c3c;
+}
+
+.bug-fixing-inbox-outgoing__message--border-down {
+  background-color: #6c7bff;
+  border-radius: 15px 15px 15px 0;
+  padding: 8px 10px;
+  margin: 10px 0;
+  color: #ffffff;
+}
+
+.outgoing--font {
+  color: #ffffff;
+}
+
+.bug-fixing-inbox-outgoing__message {
+  flex-direction: row-reverse;
+  margin-left: auto;
+}
+
+.msg--img {
+  width: 90px;
+  height: 60px;
+  margin: 0 4px;
+  border-radius: 4px;
+}
+
+.message-send--options--middle--input {
+  border: none;
+}
+
+.inbox--box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.message-send--options-left {
+  display: flex;
+  align-items: center;
+}
+
+.inbox-icon {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.message-send--options--middle--input {
+  width: 100%;
+  resize: none;
+}
+
+.message-send--options--middle--input:focus {
+  outline: none;
+}
+
+.message-send--option-btn {
+  padding: 8px 14px;
+  background-color: #6c7bff;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.message-heading--title {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
+  color: #3c3c3c;
+}
+.mesage-profile {
+  display: flex;
+}
+
+.inbox-profile--img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.inbox-profile--img .userName {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #3c3c3c;
+  opacity: 0.7;
+}
+
+.message__header__text {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 28px;
+  color: #7b7f90;
+  opacity: 0.7;
+}
+
+.message-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+.bug-fixing-inbox-receive__message--text {
+  margin-left: 10px;
+}
+
+.bug-fixing-inbox-receive__message--text__one {
+  background-color: #f4f4f4;
+  border-radius: 15px 15px 15px 0;
+  padding: 8px;
+}
+
+.bug-fixing-inbox-receive__message--text__two {
+  background-color: #f4f4f4;
+  border-radius: 0px 15px 15px 15px;
+  margin-top: 5px;
+  padding: 8px 10px;
+}
+
+.bugFixing--font {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #3c3c3c;
+}
+
+.bug-fixing-inbox-outgoing__message--border-down {
+  background-color: #6c7bff;
+  border-radius: 15px 15px 15px 0;
+  padding: 8px 10px;
+  margin: 10px 0;
+  color: #ffffff;
+}
+
+.outgoing--font {
+  color: #ffffff;
+}
+
+.bug-fixing-inbox-outgoing__message {
+  flex-direction: row-reverse;
+  margin-left: auto;
+}
+
+.msg--img {
+  width: 90px;
+  height: 60px;
+  margin: 0 4px;
+  border-radius: 4px;
+}
+
+.message-send--options--middle--input {
+  border: none;
+}
+
+.inbox--box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.message-send--options-left {
+  display: flex;
+  align-items: center;
+}
+
+.inbox-icon {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.message-send--options--middle--input {
+  width: 100%;
+  resize: none;
+}
+
+.message-send--options--middle--input:focus {
+  outline: none;
+}
+
+.message-send--option-btn {
+  padding: 8px 14px;
+  background-color: #6c7bff;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

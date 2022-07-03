@@ -1,0 +1,161 @@
+p {
+  margin: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+.card-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.card_title {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #7b7f90;
+}
+
+.card_des_bold {
+  margin: 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  color: #3b3b3b;
+}
+
+.card_paper {
+  padding: 8px 12px;
+  height: 72px;
+  overflow: hidden;
+}
+
+.header--oprions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.header--oprions__title {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 27px;
+  color: #3b3b3b;
+}
+
+.header--oprions__title__sm {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  margin: 0;
+}
+
+.vectorMap_header__title {
+  margin: 0;
+  padding: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  color: #444444;
+  padding-top: 12px;
+}
+
+.vectorMap__top__part {
+  text-align: center;
+}
+.vector--map__count-top {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 28px;
+  color: #6c7bff;
+  margin-top: 16px;
+  padding-bottom: 8px;
+  border-bottom: 0.5px #7b7f90 dashed;
+}
+
+.vectorMap__bottom__part {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+
+.table_heading--title {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #3b3b3b;
+  margin-top: 20px;
+}
+
+.table_heading--sub {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #7b7f90;
+  margin-bottom: 31px;
+  display: inline-block;
+}
+
+.vectorMap__bottom__part--left,
+.vectorMap__bottom__part--right {
+  text-align: center;
+  position: relative;
+}
+
+.vectorMap__bottom__part--left::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  right: -50px;
+  top: 0;
+  border-right: 1px dashed #7b7f90;
+}
+
+.vectorMap__bottom__part--title {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 28px;
+  color: #7b7f90;
+}
+
+.vectorMap__bottom__part--count {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 28px;
+}
+
+.vectorMap-count-left {
+  color: #6c7bff;
+}
+
+.vectorMap-count-right {
+  color: #34ddaa;
+}

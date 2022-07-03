@@ -1,0 +1,27 @@
+.authForm label {
+  display: block;
+  margin-top: 12px;
+  margin-bottom: 8px;
+}
+
+.auth_heading {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 28px;
+  color: #3c3c3c;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.auth_sub {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+  color: #7b7f90;
+  padding: 0 35px;
+}

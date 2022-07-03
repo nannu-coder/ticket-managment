@@ -1,0 +1,93 @@
+.customer_left-top--searchBar {
+  position: relative;
+  margin-top: 15px;
+}
+
+.customer_left-top--searchBar input {
+  position: relative;
+  padding-left: 30px;
+}
+
+.search__bar {
+  position: absolute;
+  top: 10.5px;
+  left: 7px;
+}
+
+.customer__top--file {
+  margin-top: 18px;
+}
+
+.customer__top--file .MuiTabs-indicator {
+  display: none !important;
+}
+
+.customer__top--file .Mui-selected {
+  background-color: #6c7bff;
+  color: #ffffff !important;
+  padding: 4px 52px !important;
+  border-radius: 7px;
+}
+
+.customer__top--file .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+  min-height: initial;
+}
+
+.customer__top--file
+  .customer__top--file--tabs
+  .MuiTab-textColorPrimary[aria-selected="false"] {
+  background-color: #f4f4f4;
+  padding: 9px 52px;
+}
+
+.customer__top--file--tabs .MuiTabs-flexContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.customer_left {
+  padding: 12px;
+}
+
+.chat-list--container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.chat-list--container--content {
+  margin-left: 10px;
+}
+
+.chat-list--container--content--header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.chat-list--container--content--header_title {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 22px;
+  color: #3c3c3c;
+}
+
+.chat-list--container--content--header_time {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #7b7f90;
+}
+
+.chat-list--container--content--body p {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 15px;
+  color: #7b7f90;
+  line-height: 17px;
+}

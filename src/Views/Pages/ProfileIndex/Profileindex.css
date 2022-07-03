@@ -1,0 +1,191 @@
+.profile__part {
+  margin-top: 35px;
+}
+
+.profile--banner {
+  height: 192px;
+}
+
+.profile--banner .banner-image {
+  width: 100%;
+  height: 100%;
+}
+
+.profile--image {
+  position: relative;
+}
+
+.profile--image__img {
+  display: flex;
+  justify-content: center;
+}
+
+.profile--image .profile-img {
+  width: 198px;
+  height: 198px;
+  border-radius: 50%;
+  margin-top: -113px;
+}
+
+.user-name--title {
+  text-align: center;
+}
+
+.profile-userName {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 28px;
+  color: #6c7bff;
+  margin: 12px 0;
+}
+
+.user-pro {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #7b7f90;
+}
+
+.editIconBtn {
+  background-color: #e8eaff;
+  border: none;
+  width: 39px;
+  height: 39px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.edit__option {
+  position: absolute;
+  top: 25px;
+  right: 25px;
+}
+
+.profile-contact-info {
+  position: relative;
+}
+
+.middle {
+  display: inline-block;
+  margin: 0 40px;
+}
+
+.table td {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  color: #7b7f90;
+}
+
+.color-td {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #3c3c3c;
+}
+
+.contact-info--heading--title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 28px;
+  color: #3c3c3c;
+  margin-bottom: 15px;
+}
+
+.userEdu-info {
+  position: relative;
+}
+
+.edu-info-header--title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 28px;
+  color: #3c3c3c;
+  margin-bottom: 15px;
+}
+
+.edu-details {
+  margin-top: 10px;
+}
+
+.edu-details--title {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #3c3c3c;
+}
+
+.edu-details--scl {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 10px;
+  color: #7b7f90;
+}
+
+.edu-details--year {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  color: #7b7f90;
+}
+
+.modalinfo label {
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 8px;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 28px;
+  color: #444444;
+}
+
+.dialog--title {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 28px;
+  color: #6c7bff;
+}
+
+.add_btn--edu-info {
+  background-color: #e3e6ff;
+  color: #6c7bff;
+  padding: 4px 18px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+.primary-info--modal input {
+  width: 350px;
+}
+
+@media only screen and (max-width: 420px) {
+  .primary-info--modal input {
+    width: 100%;
+  }
+}
+
+.contact-info--modal input {
+  width: 350px;
+}
+
+@media only screen and (max-width: 420px) {
+  .contact-info--modal input {
+    width: 350px;
+  }
+}

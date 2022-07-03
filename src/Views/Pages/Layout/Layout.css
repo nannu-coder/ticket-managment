@@ -1,0 +1,123 @@
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+}
+
+.headerToolbar {
+  justify-content: space-between;
+  /* background-color: #ffffff; */
+}
+
+.search_field .css-1ptx2yq-MuiInputBase-root-MuiInput-root:before {
+  border-bottom: 0;
+}
+
+.search_field
+  .css-1ptx2yq-MuiInputBase-root-MuiInput-root:hover:not(.Mui-disabled):before {
+  border-bottom: 0;
+}
+
+.search_field .MuiInput-input::placeholder {
+  color: #3c3c3c;
+}
+
+.search_field .MuiInput-input {
+  padding-left: 10px;
+}
+
+.headerBtn.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  box-shadow: none;
+}
+
+.headerBtn {
+  color: #3c3c3c !important;
+  font-family: "Manrope", sans-serif !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 18px !important;
+  line-height: 28px !important;
+  text-transform: capitalize !important;
+}
+
+.headerBtn.languageBtn {
+  color: #3c3c3c !important;
+  font-family: "Roboto", sans-serif !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  line-height: 28px !important;
+  text-transform: capitalize !important;
+  margin-right: 15px;
+}
+
+.header_avatar {
+  margin-right: 5px;
+}
+
+.headerBtn.css-sghohy-MuiButtonBase-root-MuiButton-root:hover {
+  box-shadow: none;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.css-2liczv-MuiBadge-badge {
+  background-color: #fcb045 !important;
+}
+
+.notification_icon {
+  margin-right: 15px;
+}
+
+.sidebar_link {
+  font-family: "Inter", sans-serif;
+  margin: 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+.nav-bar .active li {
+  background-color: #f0f2ff;
+}
+
+.nav-bar a {
+  text-decoration: none;
+}
+
+.badge {
+  width: 20px;
+  height: 20px;
+  background-color: #6c7bff;
+  color: #ffffff;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 20px;
+  margin-left: 24px;
+}
+
+.nav-link {
+  color: #7b7f90;
+}
+
+.nav-menu {
+  text-decoration: none;
+  color: #7b7f90;
+}
+
+.headerToolbar .MuiSvgIcon-fontSizeMedium {
+  color: gray;
+  border-radius: 50%;
+}
+
+/*  */
+
+@media only screen and (max-width: 768px) {
+  /* .MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation0.MuiDrawer-paper.MuiDrawer-paperAnchorLeft.MuiDrawer-paperAnchorDockedLeft.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+    transform: translateX(-240px) !important;
+    visibility: hidden !important;
+  } */
+}

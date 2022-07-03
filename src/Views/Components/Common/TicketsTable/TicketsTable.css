@@ -1,0 +1,13 @@
+.tickets-table .css-1xy1myn-MuiDataGrid-root .MuiDataGrid-row {
+  background-color: #ffffff;
+}
+
+.tickets-table .css-1xy1myn-MuiDataGrid-root {
+  border: 0;
+}
+
+.tickets-table .css-f3jnds-MuiDataGrid-columnHeaders {
+  background-color: #6c7bff;
+  color: #ffffff;
+  border-radius: 10px 10px 0 0;
+}
